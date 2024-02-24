@@ -1,0 +1,7 @@
+D:\mphasis\Phase-4\Feb 15\SampleConsole15\SampleConsole15\bin\Debug\SampleConsole15.exe.config
+D:\mphasis\Phase-4\Feb 15\SampleConsole15\SampleConsole15\bin\Debug\SampleConsole15.exe
+D:\mphasis\Phase-4\Feb 15\SampleConsole15\SampleConsole15\bin\Debug\SampleConsole15.pdb
+D:\mphasis\Phase-4\Feb 15\SampleConsole15\SampleConsole15\obj\Debug\SampleConsole15.csproj.AssemblyReference.cache
+D:\mphasis\Phase-4\Feb 15\SampleConsole15\SampleConsole15\obj\Debug\SampleConsole15.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase-4\Feb 15\SampleConsole15\SampleConsole15\obj\Debug\SampleConsole15.exe
+D:\mphasis\Phase-4\Feb 15\SampleConsole15\SampleConsole15\obj\Debug\SampleConsole15.pdb
